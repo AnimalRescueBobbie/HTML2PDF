@@ -1,3 +1,5 @@
+# Animal Rescue
+
 ### HTML to PDF Glide Plugin by Loqode
 
 This plugin allows you to preview and save HTML as PDFs. 
