@@ -1,4 +1,4 @@
-# Animal Rescue
+# Animal Rescue Glide App
 
 ### HTML to PDF Glide Plugin by Loqode
 
